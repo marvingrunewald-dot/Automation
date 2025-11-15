@@ -1,0 +1,5 @@
+{
+    "openai_api_key": "wb7Fl5mpSK3Eu2K41LayHnoLpMcZXxUSWxO598wM_8oQfcuVXcwHGPYmF5sxdGBXt7ICe22uJ3T3BlbkFJKdvMAb8E4ByHYt7Bvah8iHi8_ZWR6byzfxI0DJzTgis4nH7KHZZB3CVcWt7h2qcNWYNO5kRlcA",
+    "use_openai_vision": true,
+    "vision_model": "gpt-4.1-mini"
+}
